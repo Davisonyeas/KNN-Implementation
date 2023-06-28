@@ -80,9 +80,6 @@ Minkowski distance is used to calculate the distance between two real value vect
 - It can do well in practice with enough representative data.
 
 
-## 🤝 Contribution
-Feel free to file a new issue with a respective title and description on the this face recognition repository. If you already found a solution to your problem, I would love to review your pull request!
-
 ## ❤️ Owner
 Made by Davis Onyeoguzoro
 
