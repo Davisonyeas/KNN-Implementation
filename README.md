@@ -4,6 +4,7 @@
 The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 Link to article
+
 https://medium.com/@davisonyeas/putting-the-k-in-nn-479859ad8414
 
 ![](Euclidean_distance.png)
