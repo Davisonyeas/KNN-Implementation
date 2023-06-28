@@ -9,7 +9,7 @@ https://medium.com/@davisonyeas/putting-the-k-in-nn-479859ad8414
 
 ![](Euclidean_distance.png)
 
-## APPLICATIONS in MACHINE LEARNING
+## Applications in Machine Learning
 
 KNN is widely used in machine learning applications. Some of the most famous use cases are mentioned below.
 
